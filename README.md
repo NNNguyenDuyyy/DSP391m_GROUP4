@@ -1,10 +1,12 @@
 # Project Repository
 
-This repository contains all relevant components for the project titled **Block-Wise Attention-Driven Soft Segmentation for Imbalanced Multi-Label Chest X-Ray Classification** for course **DSP391m**, including dataset, source code, report and pretrained weights.
+This repository contains all relevant components for the project titled **Block-Wise Attention-Driven Soft Segmentation for Imbalanced Multi-Label Chest X-Ray Classification** for course **DSP391m**, including dataset, source code, report and pretrained weights. If you want to get the insight of our project, please read **DSP391m_Group4_Capstone_Project_Document.pdf**. 
 
 ## 📁 Repository Structure
 
 ├── Dataset/ # Contains the link to datasets
+
+├── DSP391m_Group4_Capstone_Project_Document.pdf / # Capstone Project Document
 
 ├── SourceCode/ # All source code (models, training scripts, etc.)
 
