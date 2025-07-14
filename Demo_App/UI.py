@@ -6,7 +6,7 @@ import numpy as np
 from models.vgg16_lka import VGG16_LKA
 
 # Thay path nếu cần
-MODEL_WEIGHTS = 'D:\\ki_8_9_2025\\dsp301\\best_weights\\best_weights\\best_model_vgg_lka_3_block_8768.pth'
+# MODEL_WEIGHTS = 'D:\\ki_8_9_2025\\dsp301\\best_weights\\best_weights\\best_model_vgg_lka_3_block_8768.pth'
 
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = VGG16_LKA(num_classes=14, dropout=0.5)
