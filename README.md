@@ -8,6 +8,8 @@ This repository contains all relevant components for the project titled **Block-
 
 ├── SourceCode/ # All source code (models, training scripts, etc.)
 
+├── Demo/ # App to show the predicted image and gradcam
+
 ├── Weights_DSP391m # Pretrained weights or model checkpoints
 
 ├── LICENSE # License information
@@ -28,6 +30,10 @@ This project is part of the **DSP391m** course/project, focusing on deep learnin
 
 - File: `Weights_DSP391m`
 - Usage: Load this file into your model for evaluation or fine-tuning.
+
+## 🖥️ Demo App
+
+- The `Demo/` folder contains an interactive app for visualizing model predictions and Grad-CAM heatmaps on chest X-ray images.
 
 ## 📊 Dataset
 
