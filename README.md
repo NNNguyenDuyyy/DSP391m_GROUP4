@@ -12,7 +12,7 @@ This repository contains all relevant components for the project titled **Block-
 
 ├── SourceCode/ # All source code (models, training scripts, etc.)
 
-├── Demo/ # App to show the predicted image and gradcam
+├── Demo_APP/ # App to show the predicted image and gradcam
 
 ├── Weights_DSP391m # Pretrained weights or model checkpoints
 
