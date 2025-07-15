@@ -1,0 +1,501 @@
+,Image_Index,Finding_Labels,Follow_Up_#,Patient_ID,Patient_Age,Patient_Gender,View_Position,Original_Image_Width,Original_Image_Height,Original_Image_Pixel_Spacing_X,Original_Image_Pixel_Spacing_Y,dfd,Atelectasis,Consolidation,Infiltration,Pneumothorax,Edema,Emphysema,Fibrosis,Effusion,Pneumonia,Pleural_Thickening,Cardiomegaly,Nodule,Mass,Hernia,Paths
+47738,00012094_055.png,['Emphysema'],55,12094,63,F,PA,2642,2991,0.143,0.143,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012094_055.png
+101139,00026849_001.png,['Infiltration'],1,26849,56,F,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026849_001.png
+39405,00010320_002.png,"['Infiltration', 'Nodule']",2,10320,52,F,PA,2986,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_005/images/00010320_002.png
+1490,00000389_000.png,['No Finding'],0,389,65,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000389_000.png
+82587,00020318_001.png,['Pneumothorax'],1,20318,60,M,AP,3056,2544,0.139,0.139,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020318_001.png
+108239,00029310_002.png,['No Finding'],2,29310,22,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029310_002.png
+21076,00005631_002.png,['Infiltration'],2,5631,9,M,PA,2048,2500,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005631_002.png
+101241,00026889_000.png,"['Effusion', 'Fibrosis', 'Mass', 'Cardiomegaly']",0,26889,67,F,PA,2214,2393,0.143,0.143,,0,0,0,0,0,0,1,1,0,0,1,0,1,0,/kaggle/input/data/images_011/images/00026889_000.png
+91076,00022707_001.png,['No Finding'],1,22707,45,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022707_001.png
+12593,00003292_012.png,"['Atelectasis', 'Infiltration']",12,3292,61,M,PA,2500,2048,0.171,0.171,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003292_012.png
+103924,00027726_022.png,['No Finding'],22,27726,58,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027726_022.png
+101565,00026979_008.png,['No Finding'],8,26979,49,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026979_008.png
+41415,00010709_001.png,"['Atelectasis', 'Effusion']",1,10709,46,M,AP,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010709_001.png
+93557,00023480_000.png,['No Finding'],0,23480,39,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023480_000.png
+33878,00008875_026.png,['No Finding'],26,8875,65,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008875_026.png
+106937,00028864_002.png,"['Atelectasis', 'Cardiomegaly', 'Effusion', 'Pleural_Thickening']",2,28864,51,F,PA,2021,2021,0.194311,0.194311,,1,0,0,0,0,0,0,1,0,1,1,0,0,0,/kaggle/input/data/images_012/images/00028864_002.png
+41878,00010792_003.png,['No Finding'],3,10792,12,M,PA,2714,2729,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010792_003.png
+72731,00017926_007.png,['No Finding'],7,17926,61,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017926_007.png
+51365,00012976_003.png,['No Finding'],3,12976,62,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012976_003.png
+105581,00028386_005.png,['No Finding'],5,28386,32,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028386_005.png
+30080,00007847_001.png,['No Finding'],1,7847,48,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007847_001.png
+43210,00011144_023.png,['Mass'],23,11144,67,M,PA,2878,2793,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_005/images/00011144_023.png
+24188,00006355_003.png,['No Finding'],3,6355,52,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006355_003.png
+54866,00013737_002.png,['Nodule'],2,13737,57,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_006/images/00013737_002.png
+13760,00003546_004.png,['Effusion'],4,3546,27,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003546_004.png
+38073,00010003_000.png,['No Finding'],0,10003,54,F,AP,3056,2376,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010003_000.png
+45301,00011614_000.png,['Infiltration'],0,11614,60,F,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011614_000.png
+41507,00010726_003.png,['No Finding'],3,10726,86,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010726_003.png
+78111,00019176_021.png,['No Finding'],21,19176,67,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019176_021.png
+65678,00016211_004.png,['Atelectasis'],4,16211,81,F,PA,2894,2809,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016211_004.png
+33026,00008649_012.png,['No Finding'],12,8649,62,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008649_012.png
+77913,00019137_001.png,['Infiltration'],1,19137,40,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019137_001.png
+11172,00002902_000.png,['Infiltration'],0,2902,52,M,PA,2992,2685,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002902_000.png
+39060,00010222_025.png,"['Atelectasis', 'Effusion']",25,10222,48,M,AP,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010222_025.png
+33360,00008745_019.png,['No Finding'],19,8745,46,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008745_019.png
+48346,00012259_000.png,['No Finding'],0,12259,46,M,PA,2842,2761,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012259_000.png
+17267,00004630_000.png,['Cardiomegaly'],0,4630,70,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_003/images/00004630_000.png
+74987,00018387_023.png,"['Edema', 'Infiltration']",23,18387,57,M,AP,2500,2048,0.168,0.168,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018387_023.png
+78699,00019308_001.png,"['Mass', 'Nodule']",1,19308,61,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_009/images/00019308_001.png
+61215,00015090_004.png,['Emphysema'],4,15090,53,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015090_004.png
+77131,00018949_015.png,"['Consolidation', 'Infiltration', 'Pleural_Thickening']",15,18949,8,M,AP,2500,2048,0.168,0.168,,0,1,1,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_009/images/00018949_015.png
+29815,00007750_011.png,['No Finding'],11,7750,56,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007750_011.png
+33879,00008875_027.png,['No Finding'],27,8875,65,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008875_027.png
+56512,00014058_007.png,['Atelectasis'],7,14058,47,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014058_007.png
+27078,00007054_006.png,['No Finding'],6,7054,39,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007054_006.png
+10619,00002751_000.png,['No Finding'],0,2751,35,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002751_000.png
+83672,00020524_026.png,['Infiltration'],26,20524,48,F,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020524_026.png
+25723,00006763_008.png,['No Finding'],8,6763,14,M,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00006763_008.png
+66605,00016476_000.png,['No Finding'],0,16476,57,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016476_000.png
+47678,00012093_002.png,['No Finding'],2,12093,44,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012093_002.png
+93536,00023459_000.png,['Infiltration'],0,23459,32,M,PA,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023459_000.png
+58972,00014597_000.png,['No Finding'],0,14597,30,M,PA,2832,2553,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014597_000.png
+39043,00010222_008.png,['No Finding'],8,10222,48,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010222_008.png
+47708,00012094_025.png,"['Infiltration', 'Pneumothorax']",25,12094,63,F,PA,2992,2991,0.143,0.143,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012094_025.png
+6200,00001684_001.png,['No Finding'],1,1684,58,M,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001684_001.png
+58245,00014398_034.png,"['Effusion', 'Infiltration']",34,14398,56,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014398_034.png
+26417,00006937_000.png,['No Finding'],0,6937,42,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00006937_000.png
+56146,00014004_027.png,"['Edema', 'Pneumonia']",27,14004,58,F,AP,3056,2544,0.139,0.139,,0,0,0,0,1,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_007/images/00014004_027.png
+74786,00018360_048.png,"['Consolidation', 'Infiltration']",48,18360,62,M,AP,3056,2544,0.139,0.139,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018360_048.png
+1310,00000333_000.png,"['Cardiomegaly', 'Consolidation']",0,333,67,F,PA,2634,2558,0.143,0.143,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_001/images/00000333_000.png
+73613,00018102_000.png,['No Finding'],0,18102,58,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018102_000.png
+32841,00008594_000.png,['Nodule'],0,8594,67,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_004/images/00008594_000.png
+73361,00018048_000.png,['No Finding'],0,18048,34,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018048_000.png
+11861,00003094_003.png,['No Finding'],3,3094,49,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003094_003.png
+110156,00029981_008.png,"['Emphysema', 'Mass']",8,29981,60,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,1,0,0,0,0,0,0,1,0,/kaggle/input/data/images_012/images/00029981_008.png
+32549,00008513_001.png,['No Finding'],1,8513,44,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008513_001.png
+16827,00004521_003.png,['No Finding'],3,4521,68,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004521_003.png
+42709,00010996_004.png,"['Fibrosis', 'Infiltration', 'Pleural_Thickening', 'Pneumothorax']",4,10996,51,M,AP,2692,2544,0.139,0.139,,0,0,1,1,0,0,1,0,0,1,0,0,0,0,/kaggle/input/data/images_005/images/00010996_004.png
+26915,00007031_000.png,['Pleural_Thickening'],0,7031,48,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_004/images/00007031_000.png
+37796,00009938_002.png,['No Finding'],2,9938,54,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00009938_002.png
+98202,00025931_001.png,['No Finding'],1,25931,82,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025931_001.png
+102593,00027355_004.png,['No Finding'],4,27355,15,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027355_004.png
+3377,00000893_000.png,['Pneumonia'],0,893,43,F,PA,2544,3056,0.139,0.139,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_001/images/00000893_000.png
+17212,00004613_000.png,['No Finding'],0,4613,29,F,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004613_000.png
+94865,00024588_000.png,['No Finding'],0,24588,39,F,PA,2544,3056,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00024588_000.png
+12136,00003162_000.png,['No Finding'],0,3162,49,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003162_000.png
+110377,00030066_000.png,['Infiltration'],0,30066,46,M,PA,2021,2021,0.194311,0.194311,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030066_000.png
+96023,00025253_000.png,['No Finding'],0,25253,54,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025253_000.png
+32187,00008422_000.png,['No Finding'],0,8422,22,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008422_000.png
+4175,00001134_000.png,['No Finding'],0,1134,33,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00001134_000.png
+104871,00028122_002.png,['No Finding'],2,28122,44,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00028122_002.png
+89639,00022257_000.png,['No Finding'],0,22257,72,M,PA,3056,2496,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022257_000.png
+31835,00008324_000.png,"['Effusion', 'Mass']",0,8324,54,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,1,0,/kaggle/input/data/images_004/images/00008324_000.png
+22240,00005895_020.png,['Effusion'],20,5895,53,F,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005895_020.png
+67268,00016607_029.png,['No Finding'],29,16607,64,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016607_029.png
+86000,00021201_110.png,['No Finding'],110,21201,66,M,PA,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021201_110.png
+90601,00022566_017.png,['Effusion'],17,22566,90,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022566_017.png
+103895,00027725_069.png,"['Infiltration', 'Pneumothorax']",69,27725,21,M,AP,3056,2544,0.139,0.139,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027725_069.png
+33359,00008745_018.png,['No Finding'],18,8745,46,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008745_018.png
+23954,00006304_038.png,['Infiltration'],38,6304,67,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006304_038.png
+17582,00004745_001.png,['Atelectasis'],1,4745,75,M,AP,2500,2048,0.171,0.171,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004745_001.png
+11124,00002883_002.png,['No Finding'],2,2883,52,M,PA,2650,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002883_002.png
+94463,00024230_000.png,['No Finding'],0,24230,22,F,PA,2814,2805,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00024230_000.png
+14845,00003875_002.png,['No Finding'],2,3875,21,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003875_002.png
+39673,00010365_010.png,['No Finding'],10,10365,48,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010365_010.png
+99943,00026469_007.png,['No Finding'],7,26469,23,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026469_007.png
+28914,00007548_001.png,['No Finding'],1,7548,53,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007548_001.png
+77909,00019135_000.png,"['Fibrosis', 'Infiltration']",0,19135,67,M,PA,2578,2480,0.143,0.143,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019135_000.png
+24406,00006422_001.png,['Atelectasis'],1,6422,45,M,AP,2500,2048,0.171,0.171,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006422_001.png
+28905,00007542_005.png,['No Finding'],5,7542,65,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007542_005.png
+63735,00015732_017.png,['No Finding'],17,15732,48,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015732_017.png
+64673,00015963_000.png,['No Finding'],0,15963,30,F,PA,2658,2597,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015963_000.png
+92296,00023065_029.png,['Pneumothorax'],29,23065,50,F,PA,2021,2021,0.194311,0.194311,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023065_029.png
+98915,00026151_000.png,"['Atelectasis', 'Mass']",0,26151,56,M,PA,2021,2021,0.194311,0.194311,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_011/images/00026151_000.png
+89719,00022283_003.png,['Atelectasis'],3,22283,60,F,AP,3056,2544,0.139,0.139,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022283_003.png
+90606,00022566_022.png,['Effusion'],22,22566,90,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022566_022.png
+79607,00019550_014.png,"['Atelectasis', 'Infiltration']",14,19550,9,F,AP,2632,2392,0.139,0.139,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019550_014.png
+49790,00012626_012.png,['Atelectasis'],12,12626,30,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012626_012.png
+44160,00011379_029.png,"['Pleural_Thickening', 'Pneumothorax']",29,11379,9,M,PA,1998,2067,0.143,0.143,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_005/images/00011379_029.png
+99732,00026412_045.png,"['Effusion', 'Emphysema', 'Pneumothorax']",45,26412,26,M,PA,2021,2021,0.194311,0.194311,,0,0,0,1,0,1,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026412_045.png
+64250,00015847_001.png,['No Finding'],1,15847,46,F,PA,2818,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015847_001.png
+103715,00027685_012.png,['No Finding'],12,27685,63,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027685_012.png
+55486,00013896_002.png,['No Finding'],2,13896,41,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00013896_002.png
+83207,00020435_000.png,['No Finding'],0,20435,29,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020435_000.png
+107869,00029159_024.png,['No Finding'],24,29159,52,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029159_024.png
+110439,00030079_031.png,['Infiltration'],31,30079,16,M,AP,3056,2544,0.139,0.139,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030079_031.png
+49078,00012445_000.png,['Fibrosis'],0,12445,53,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012445_000.png
+78705,00019308_007.png,"['Atelectasis', 'Effusion', 'Infiltration']",7,19308,61,F,AP,2500,2048,0.168,0.168,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019308_007.png
+28492,00007434_000.png,['No Finding'],0,7434,30,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007434_000.png
+100255,00026562_013.png,['No Finding'],13,26562,47,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026562_013.png
+47218,00012021_000.png,['No Finding'],0,12021,24,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012021_000.png
+17857,00004808_096.png,"['Infiltration', 'Nodule']",96,4808,38,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_003/images/00004808_096.png
+86322,00021282_000.png,"['Mass', 'Nodule']",0,21282,81,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_010/images/00021282_000.png
+63121,00015605_029.png,['Edema'],29,15605,32,F,AP,2500,2048,0.168,0.168,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015605_029.png
+70685,00017425_009.png,"['Cardiomegaly', 'Effusion', 'Nodule']",9,17425,12,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,1,1,0,0,/kaggle/input/data/images_008/images/00017425_009.png
+71168,00017544_004.png,['Atelectasis'],4,17544,44,M,PA,2992,2817,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017544_004.png
+77541,00019058_004.png,['Nodule'],4,19058,59,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_009/images/00019058_004.png
+86369,00021294_003.png,"['Edema', 'Infiltration']",3,21294,57,M,PA,2992,2991,0.143,0.143,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021294_003.png
+79645,00019567_000.png,['No Finding'],0,19567,57,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019567_000.png
+64804,00016009_004.png,['No Finding'],4,16009,54,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00016009_004.png
+102958,00027442_003.png,['No Finding'],3,27442,11,F,AP,2544,3056,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027442_003.png
+17109,00004585_001.png,['No Finding'],1,4585,36,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004585_001.png
+39986,00010447_016.png,"['Atelectasis', 'Infiltration', 'Pneumothorax']",16,10447,63,F,AP,2500,2048,0.168,0.168,,1,0,1,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010447_016.png
+75637,00018560_002.png,['Atelectasis'],2,18560,61,M,PA,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00018560_002.png
+39992,00010447_022.png,['No Finding'],22,10447,63,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010447_022.png
+78552,00019271_035.png,['No Finding'],35,19271,54,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019271_035.png
+107592,00029069_000.png,['No Finding'],0,29069,21,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029069_000.png
+48818,00012368_000.png,['No Finding'],0,12368,4,F,PA,2598,1945,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012368_000.png
+86324,00021282_002.png,['No Finding'],2,21282,80,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021282_002.png
+87657,00021663_001.png,"['Infiltration', 'Pneumonia']",1,21663,21,M,PA,3056,2544,0.139,0.139,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_010/images/00021663_001.png
+4271,00001166_001.png,['No Finding'],1,1166,37,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00001166_001.png
+7539,00001983_001.png,['No Finding'],1,1983,37,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001983_001.png
+53618,00013539_003.png,['No Finding'],3,13539,53,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013539_003.png
+6827,00001836_013.png,['Infiltration'],13,1836,49,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001836_013.png
+79088,00019407_008.png,['No Finding'],8,19407,35,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019407_008.png
+8548,00002262_008.png,['No Finding'],8,2262,73,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002262_008.png
+92679,00023131_000.png,"['Cardiomegaly', 'Consolidation']",0,23131,47,M,AP,3056,2544,0.139,0.139,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_010/images/00023131_000.png
+41928,00010805_013.png,"['Consolidation', 'Infiltration', 'Pneumonia']",13,10805,7,F,AP,2048,2500,0.115,0.115,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_005/images/00010805_013.png
+9538,00002478_005.png,['No Finding'],5,2478,59,F,PA,2598,2573,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002478_005.png
+87845,00021721_000.png,['No Finding'],0,21721,45,F,PA,2520,3024,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021721_000.png
+74932,00018379_003.png,"['Atelectasis', 'Emphysema']",3,18379,59,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018379_003.png
+87645,00021653_002.png,['No Finding'],2,21653,68,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021653_002.png
+76219,00018705_006.png,['No Finding'],6,18705,52,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00018705_006.png
+6360,00001718_004.png,['No Finding'],4,1718,68,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001718_004.png
+2561,00000659_001.png,['No Finding'],1,659,41,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000659_001.png
+18556,00004922_000.png,['Pneumothorax'],0,4922,57,M,AP,2500,2048,0.171,0.171,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004922_000.png
+97120,00025621_012.png,"['Consolidation', 'Infiltration', 'Pleural_Thickening']",12,25621,65,F,PA,2992,2991,0.143,0.143,,0,1,1,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_011/images/00025621_012.png
+40950,00010607_004.png,['No Finding'],4,10607,59,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010607_004.png
+73995,00018187_056.png,"['Effusion', 'Infiltration']",56,18187,32,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018187_056.png
+84399,00020751_004.png,['Effusion'],4,20751,33,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020751_004.png
+94980,00024699_000.png,['No Finding'],0,24699,23,F,PA,2306,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00024699_000.png
+38302,00010012_024.png,"['Edema', 'Infiltration', 'Pneumonia']",24,10012,53,M,AP,2500,2048,0.168,0.168,,0,0,1,0,1,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_005/images/00010012_024.png
+40087,00010469_001.png,['No Finding'],1,10469,36,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010469_001.png
+62030,00015351_003.png,['No Finding'],3,15351,39,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015351_003.png
+56625,00014083_018.png,['Emphysema'],18,14083,26,F,PA,2658,2991,0.143,0.143,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014083_018.png
+67363,00016631_001.png,['No Finding'],1,16631,35,M,PA,1990,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016631_001.png
+95642,00025150_005.png,['Pneumothorax'],5,25150,49,M,PA,2632,2765,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025150_005.png
+85326,00021035_010.png,['Pleural_Thickening'],10,21035,34,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_010/images/00021035_010.png
+63151,00015605_059.png,['No Finding'],59,15605,32,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015605_059.png
+79853,00019620_001.png,['No Finding'],1,19620,56,M,PA,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019620_001.png
+17277,00004635_000.png,['No Finding'],0,4635,51,F,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004635_000.png
+89647,00022260_005.png,['Atelectasis'],5,22260,54,F,PA,2502,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022260_005.png
+757,00000181_060.png,['Effusion'],60,181,52,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000181_060.png
+106522,00028722_000.png,['No Finding'],0,28722,34,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028722_000.png
+66243,00016387_000.png,['No Finding'],0,16387,31,M,PA,2892,2957,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016387_000.png
+23010,00006078_001.png,['No Finding'],1,6078,58,F,PA,1930,1868,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006078_001.png
+82874,00020373_004.png,['Effusion'],4,20373,28,M,PA,3056,2492,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020373_004.png
+12315,00003209_005.png,['Effusion'],5,3209,42,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003209_005.png
+97920,00025841_005.png,['Infiltration'],5,25841,26,F,PA,2182,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025841_005.png
+374,00000092_003.png,['Fibrosis'],3,92,58,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000092_003.png
+99030,00026194_009.png,['Atelectasis'],9,26194,11,F,AP,3056,2544,0.139,0.139,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026194_009.png
+20725,00005537_002.png,['No Finding'],2,5537,55,F,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005537_002.png
+32838,00008593_007.png,['No Finding'],7,8593,45,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008593_007.png
+109545,00029810_000.png,['No Finding'],0,29810,66,M,PA,2020,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029810_000.png
+56235,00014015_011.png,['No Finding'],11,14015,31,F,PA,2822,2621,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014015_011.png
+47156,00012014_001.png,['Pneumothorax'],1,12014,32,F,PA,2586,2561,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012014_001.png
+82926,00020393_006.png,['Nodule'],6,20393,43,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_009/images/00020393_006.png
+98114,00025897_002.png,['No Finding'],2,25897,35,F,PA,2754,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025897_002.png
+78247,00019194_009.png,['No Finding'],9,19194,32,F,PA,2782,2593,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019194_009.png
+100290,00026570_002.png,"['Mass', 'Nodule']",2,26570,51,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_011/images/00026570_002.png
+102263,00027216_001.png,['No Finding'],1,27216,65,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027216_001.png
+75015,00018390_006.png,['No Finding'],6,18390,62,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00018390_006.png
+33332,00008741_007.png,['No Finding'],7,8741,35,F,PA,2854,2769,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008741_007.png
+19262,00005094_016.png,"['Edema', 'Infiltration', 'Mass', 'Nodule', 'Pleural_Thickening']",16,5094,56,F,AP,2500,2048,0.168,0.168,,0,0,1,0,1,0,0,0,0,1,0,1,1,0,/kaggle/input/data/images_003/images/00005094_016.png
+45132,00011583_000.png,"['Infiltration', 'Pneumonia']",0,11583,67,M,PA,2850,2991,0.143,0.143,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_006/images/00011583_000.png
+40768,00010579_002.png,['No Finding'],2,10579,26,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010579_002.png
+7919,00002071_000.png,['No Finding'],0,2071,51,F,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002071_000.png
+30816,00008033_001.png,"['Atelectasis', 'Cardiomegaly']",1,8033,24,F,PA,2048,2500,0.168,0.168,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_004/images/00008033_001.png
+39679,00010367_004.png,['No Finding'],4,10367,25,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010367_004.png
+74267,00018245_008.png,['No Finding'],8,18245,45,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018245_008.png
+13839,00003569_003.png,['Nodule'],3,3569,49,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_002/images/00003569_003.png
+3043,00000808_001.png,"['Atelectasis', 'Effusion']",1,808,50,F,AP,3056,2544,0.139,0.139,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000808_001.png
+44106,00011370_000.png,['No Finding'],0,11370,42,M,PA,2750,2873,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00011370_000.png
+55450,00013894_020.png,['No Finding'],20,13894,21,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00013894_020.png
+112035,00030748_000.png,['No Finding'],0,30748,59,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030748_000.png
+54664,00013670_171.png,['Infiltration'],171,13670,56,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013670_171.png
+26126,00006853_000.png,['No Finding'],0,6853,40,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00006853_000.png
+73643,00018104_005.png,['Edema'],5,18104,42,F,AP,3056,2544,0.139,0.139,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018104_005.png
+52482,00013249_006.png,['No Finding'],6,13249,14,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013249_006.png
+70629,00017423_002.png,['No Finding'],2,17423,57,F,PA,2407,2602,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017423_002.png
+85918,00021201_028.png,['No Finding'],28,21201,65,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021201_028.png
+110005,00029938_001.png,['Mass'],1,29938,55,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_012/images/00029938_001.png
+67269,00016607_030.png,['No Finding'],30,16607,64,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016607_030.png
+76109,00018673_000.png,['No Finding'],0,18673,56,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00018673_000.png
+6229,00001684_030.png,['Effusion'],30,1684,58,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001684_030.png
+45096,00011579_017.png,"['Atelectasis', 'Consolidation', 'Emphysema', 'Infiltration']",17,11579,57,M,AP,2500,2048,0.168,0.168,,1,1,1,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011579_017.png
+96981,00025569_002.png,['No Finding'],2,25569,61,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025569_002.png
+68433,00016900_005.png,['No Finding'],5,16900,39,M,PA,2842,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016900_005.png
+89157,00022137_000.png,['No Finding'],0,22137,47,F,PA,2494,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022137_000.png
+55557,00013913_001.png,['Infiltration'],1,13913,60,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00013913_001.png
+51364,00012976_002.png,['No Finding'],2,12976,62,F,PA,2654,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012976_002.png
+111848,00030637_019.png,['Atelectasis'],19,30637,49,M,PA,2021,2021,0.194311,0.194311,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030637_019.png
+91516,00022826_025.png,"['Infiltration', 'Pleural_Thickening']",25,22826,61,M,PA,2698,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_010/images/00022826_025.png
+1584,00000422_001.png,['No Finding'],1,422,71,F,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000422_001.png
+17430,00004682_009.png,['Infiltration'],9,4682,44,F,PA,2870,2777,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004682_009.png
+54644,00013670_151.png,"['Cardiomegaly', 'Infiltration']",151,13670,56,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_006/images/00013670_151.png
+27958,00007286_008.png,"['Infiltration', 'Nodule']",8,7286,52,M,AP,2500,2048,0.171,0.171,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_004/images/00007286_008.png
+81841,00020130_011.png,"['Cardiomegaly', 'Effusion']",11,20130,44,M,PA,2790,2650,0.143,0.143,,0,0,0,0,0,0,0,1,0,0,1,0,0,0,/kaggle/input/data/images_009/images/00020130_011.png
+1146,00000280_003.png,['Pleural_Thickening'],3,280,46,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_001/images/00000280_003.png
+96467,00025394_002.png,['Nodule'],2,25394,44,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_011/images/00025394_002.png
+111844,00030637_015.png,['No Finding'],15,30637,48,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030637_015.png
+46877,00011959_006.png,['Edema'],6,11959,21,F,AP,2500,2048,0.168,0.168,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011959_006.png
+68841,00016984_000.png,['No Finding'],0,16984,69,M,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016984_000.png
+12304,00003207_001.png,['No Finding'],1,3207,29,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003207_001.png
+42309,00010887_015.png,['No Finding'],15,10887,66,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010887_015.png
+96897,00025543_018.png,['No Finding'],18,25543,42,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025543_018.png
+73211,00018019_022.png,"['Effusion', 'Infiltration']",22,18019,49,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018019_022.png
+108775,00029514_009.png,['No Finding'],9,29514,29,M,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029514_009.png
+96240,00025314_000.png,['No Finding'],0,25314,31,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025314_000.png
+53036,00013380_001.png,['No Finding'],1,13380,47,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013380_001.png
+103637,00027657_022.png,"['Effusion', 'Infiltration']",22,27657,75,F,AP,2972,2544,0.139,0.139,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027657_022.png
+85243,00021017_001.png,"['Mass', 'Nodule']",1,21017,46,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_010/images/00021017_001.png
+89456,00022206_005.png,['Infiltration'],5,22206,45,F,PA,2020,2021,0.194311,0.194311,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022206_005.png
+30702,00008009_012.png,['Fibrosis'],12,8009,17,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008009_012.png
+3194,00000834_000.png,['No Finding'],0,834,67,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000834_000.png
+6222,00001684_023.png,['Atelectasis'],23,1684,58,M,AP,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001684_023.png
+98573,00026059_003.png,"['Atelectasis', 'Infiltration']",3,26059,43,M,AP,3056,2544,0.139,0.139,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026059_003.png
+12974,00003392_049.png,['Infiltration'],49,3392,62,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003392_049.png
+93832,00023684_005.png,['No Finding'],5,23684,57,M,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023684_005.png
+364,00000091_004.png,['Infiltration'],4,91,69,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000091_004.png
+12067,00003144_000.png,['No Finding'],0,3144,65,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003144_000.png
+30168,00007864_014.png,['Infiltration'],14,7864,49,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007864_014.png
+101051,00026828_014.png,['Infiltration'],14,26828,52,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026828_014.png
+71325,00017595_003.png,['Atelectasis'],3,17595,59,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017595_003.png
+64691,00015967_000.png,['No Finding'],0,15967,38,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015967_000.png
+6819,00001836_005.png,['No Finding'],5,1836,48,F,AP,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001836_005.png
+43530,00011235_003.png,['Cardiomegaly'],3,11235,67,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_005/images/00011235_003.png
+52206,00013176_008.png,['No Finding'],8,13176,56,F,AP,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013176_008.png
+73982,00018187_043.png,['No Finding'],43,18187,32,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018187_043.png
+79531,00019535_001.png,['No Finding'],1,19535,31,F,PA,2474,2529,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019535_001.png
+31432,00008217_001.png,"['Effusion', 'Infiltration']",1,8217,63,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008217_001.png
+110450,00030079_042.png,"['Infiltration', 'Nodule']",42,30079,16,M,AP,3056,2544,0.139,0.139,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_012/images/00030079_042.png
+2830,00000754_004.png,['No Finding'],4,754,43,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000754_004.png
+13688,00003534_016.png,['No Finding'],16,3534,22,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003534_016.png
+88838,00022030_003.png,['Mass'],3,22030,50,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_010/images/00022030_003.png
+17363,00004666_000.png,['No Finding'],0,4666,13,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004666_000.png
+98039,00025858_003.png,['No Finding'],3,25858,33,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025858_003.png
+26955,00007034_032.png,['No Finding'],32,7034,30,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007034_032.png
+78749,00019322_001.png,['No Finding'],1,19322,22,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019322_001.png
+11336,00002981_003.png,['No Finding'],3,2981,55,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002981_003.png
+39064,00010222_029.png,['Consolidation'],29,10222,48,M,AP,2500,2048,0.168,0.168,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010222_029.png
+16022,00004268_001.png,['No Finding'],1,4268,33,F,PA,2466,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004268_001.png
+35469,00009350_004.png,['Pneumothorax'],4,9350,42,F,AP,2500,2048,0.168,0.168,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00009350_004.png
+45524,00011683_008.png,"['Atelectasis', 'Pneumothorax']",8,11683,56,F,AP,2500,2048,0.168,0.168,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011683_008.png
+88837,00022030_002.png,['No Finding'],2,22030,50,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022030_002.png
+84086,00020673_008.png,"['Cardiomegaly', 'Edema', 'Effusion', 'Mass', 'Nodule']",8,20673,31,F,AP,3056,2544,0.139,0.139,,0,0,0,0,1,0,0,1,0,0,1,1,1,0,/kaggle/input/data/images_009/images/00020673_008.png
+19800,00005273_003.png,['Effusion'],3,5273,40,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005273_003.png
+74572,00018306_000.png,['No Finding'],0,18306,48,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018306_000.png
+19773,00005265_000.png,['Infiltration'],0,5265,50,M,PA,2978,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005265_000.png
+30971,00008053_001.png,['No Finding'],1,8053,59,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008053_001.png
+81671,00020085_006.png,"['Atelectasis', 'Effusion']",6,20085,63,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020085_006.png
+22559,00005977_009.png,['No Finding'],9,5977,70,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005977_009.png
+67605,00016715_003.png,['No Finding'],3,16715,61,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016715_003.png
+108806,00029528_002.png,['No Finding'],2,29528,70,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029528_002.png
+4657,00001250_015.png,['Infiltration'],15,1250,67,F,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00001250_015.png
+75078,00018412_005.png,['No Finding'],5,18412,64,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00018412_005.png
+30817,00008033_002.png,['No Finding'],2,8033,25,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008033_002.png
+3056,00000808_014.png,['No Finding'],14,808,48,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000808_014.png
+67595,00016709_000.png,['No Finding'],0,16709,60,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016709_000.png
+7493,00001969_003.png,"['Atelectasis', 'Effusion', 'Infiltration']",3,1969,72,F,AP,2500,2048,0.168,0.168,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001969_003.png
+104098,00027789_000.png,['No Finding'],0,27789,50,M,PA,2734,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027789_000.png
+68922,00016998_000.png,['Fibrosis'],0,16998,74,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016998_000.png
+27491,00007157_004.png,['No Finding'],4,7157,36,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007157_004.png
+103580,00027648_011.png,['Atelectasis'],11,27648,50,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027648_011.png
+24210,00006362_001.png,['No Finding'],1,6362,43,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006362_001.png
+63074,00015595_000.png,['No Finding'],0,15595,64,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015595_000.png
+34896,00009218_006.png,['Effusion'],6,9218,40,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00009218_006.png
+64821,00016009_021.png,"['Atelectasis', 'Effusion', 'Infiltration', 'Mass', 'Pleural_Thickening']",21,16009,55,F,AP,2500,2048,0.168,0.168,,1,0,1,0,0,0,0,1,0,1,0,0,1,0,/kaggle/input/data/images_007/images/00016009_021.png
+1109,00000272_006.png,['No Finding'],6,272,36,F,PA,2508,2868,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000272_006.png
+80630,00019803_000.png,['No Finding'],0,19803,46,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019803_000.png
+49500,00012568_000.png,"['Atelectasis', 'Effusion']",0,12568,53,F,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012568_000.png
+106701,00028776_000.png,['No Finding'],0,28776,48,F,PA,1754,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028776_000.png
+106113,00028558_000.png,['Pneumothorax'],0,28558,38,F,PA,1855,1858,0.194311,0.194311,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028558_000.png
+95033,00024751_000.png,['No Finding'],0,24751,41,M,PA,2826,2821,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00024751_000.png
+78115,00019176_025.png,['Infiltration'],25,19176,67,F,AP,3056,2544,0.139,0.139,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019176_025.png
+51246,00012942_003.png,['No Finding'],3,12942,37,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012942_003.png
+74983,00018387_019.png,['No Finding'],19,18387,57,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018387_019.png
+46974,00011973_011.png,['No Finding'],11,11973,61,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011973_011.png
+44139,00011379_008.png,['No Finding'],8,11379,9,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00011379_008.png
+7585,00001989_010.png,"['Atelectasis', 'Infiltration']",10,1989,47,M,AP,2500,2048,0.171,0.171,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001989_010.png
+101364,00026925_022.png,"['Atelectasis', 'Infiltration']",22,26925,38,F,AP,2524,2544,0.139,0.139,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026925_022.png
+87390,00021582_009.png,['Pneumothorax'],9,21582,72,F,PA,2806,2348,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021582_009.png
+28280,00007364_000.png,['No Finding'],0,7364,54,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007364_000.png
+35828,00009438_000.png,['No Finding'],0,9438,42,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00009438_000.png
+9820,00002541_000.png,['Cardiomegaly'],0,2541,69,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,/kaggle/input/data/images_002/images/00002541_000.png
+8319,00002206_009.png,['Pneumothorax'],9,2206,61,M,PA,2021,2021,0.194311,0.194311,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002206_009.png
+45172,00011587_012.png,['No Finding'],12,11587,41,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011587_012.png
+9268,00002417_000.png,['Nodule'],0,2417,60,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_002/images/00002417_000.png
+55746,00013950_004.png,['Atelectasis'],4,13950,64,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00013950_004.png
+76773,00018860_036.png,"['Effusion', 'Pleural_Thickening']",36,18860,37,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,1,0,0,0,0,/kaggle/input/data/images_009/images/00018860_036.png
+101335,00026923_006.png,['Pneumothorax'],6,26923,59,M,PA,2992,2991,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026923_006.png
+104313,00027875_002.png,"['Atelectasis', 'Cardiomegaly', 'Effusion', 'Nodule']",2,27875,53,M,AP,3056,2544,0.139,0.139,,1,0,0,0,0,0,0,1,0,0,1,1,0,0,/kaggle/input/data/images_011/images/00027875_002.png
+10753,00002790_002.png,['No Finding'],2,2790,56,F,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002790_002.png
+38290,00010012_012.png,['No Finding'],12,10012,53,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010012_012.png
+10613,00002749_000.png,['No Finding'],0,2749,25,M,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002749_000.png
+17609,00004746_025.png,['Atelectasis'],25,4746,42,F,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004746_025.png
+25855,00006796_001.png,"['Atelectasis', 'Infiltration']",1,6796,55,M,PA,2626,2991,0.143,0.143,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00006796_001.png
+100134,00026538_020.png,"['Consolidation', 'Effusion']",20,26538,21,F,AP,3056,2544,0.139,0.139,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026538_020.png
+36237,00009574_005.png,['No Finding'],5,9574,55,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00009574_005.png
+18291,00004869_000.png,"['Atelectasis', 'Effusion']",0,4869,74,F,PA,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004869_000.png
+36256,00009574_024.png,"['Atelectasis', 'Consolidation', 'Effusion', 'Infiltration']",24,9574,56,M,PA,2992,2913,0.143,0.143,,1,1,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00009574_024.png
+48720,00012357_003.png,['No Finding'],3,12357,27,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012357_003.png
+69057,00017044_004.png,['Infiltration'],4,17044,19,F,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017044_004.png
+89534,00022235_008.png,"['Emphysema', 'Pneumothorax']",8,22235,46,M,PA,2736,2804,0.143,0.143,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022235_008.png
+46474,00011875_000.png,['Fibrosis'],0,11875,70,F,PA,2812,2937,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011875_000.png
+59876,00014785_007.png,['No Finding'],7,14785,20,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014785_007.png
+34792,00009182_001.png,['No Finding'],1,9182,60,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00009182_001.png
+80713,00019825_012.png,['No Finding'],12,19825,33,M,PA,2958,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019825_012.png
+105321,00028290_003.png,['No Finding'],3,28290,70,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028290_003.png
+93010,00023216_000.png,['No Finding'],0,23216,52,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023216_000.png
+62373,00015431_000.png,['No Finding'],0,15431,28,M,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00015431_000.png
+68764,00016972_000.png,['Atelectasis'],0,16972,43,F,PA,2606,2565,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016972_000.png
+80634,00019804_003.png,"['Atelectasis', 'Consolidation']",3,19804,50,M,AP,3056,2544,0.139,0.139,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019804_003.png
+4047,00001101_007.png,['No Finding'],7,1101,37,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00001101_007.png
+87488,00021610_035.png,['No Finding'],35,21610,46,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021610_035.png
+2704,00000714_001.png,['Nodule'],1,714,70,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_001/images/00000714_001.png
+32823,00008589_001.png,['No Finding'],1,8589,38,F,PA,2506,2541,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008589_001.png
+19524,00005188_003.png,['No Finding'],3,5188,25,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005188_003.png
+99427,00026302_002.png,"['Nodule', 'Pneumonia']",2,26302,36,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,/kaggle/input/data/images_011/images/00026302_002.png
+53503,00013519_001.png,['Pneumothorax'],1,13519,51,M,PA,2992,2991,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013519_001.png
+14929,00003896_003.png,['No Finding'],3,3896,72,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003896_003.png
+22317,00005918_005.png,['No Finding'],5,5918,74,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005918_005.png
+45303,00011614_002.png,['Infiltration'],2,11614,60,F,PA,2852,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011614_002.png
+11028,00002860_010.png,['Effusion'],10,2860,46,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002860_010.png
+51655,00013045_003.png,"['Infiltration', 'Pneumonia']",3,13045,48,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_006/images/00013045_003.png
+16130,00004314_000.png,['No Finding'],0,4314,53,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004314_000.png
+27907,00007274_004.png,['No Finding'],4,7274,32,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007274_004.png
+65049,00016056_004.png,['Atelectasis'],4,16056,59,M,PA,2758,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016056_004.png
+84126,00020673_048.png,['No Finding'],48,20673,32,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020673_048.png
+11352,00002987_000.png,['No Finding'],0,2987,40,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002987_000.png
+74989,00018387_025.png,"['Consolidation', 'Edema']",25,18387,57,M,AP,2500,2048,0.168,0.168,,0,1,0,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018387_025.png
+10248,00002658_000.png,"['Cardiomegaly', 'Effusion']",0,2658,30,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,0,1,0,0,0,/kaggle/input/data/images_002/images/00002658_000.png
+84642,00020832_004.png,['No Finding'],4,20832,52,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020832_004.png
+20458,00005470_001.png,['Atelectasis'],1,5470,34,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005470_001.png
+41445,00010717_000.png,['No Finding'],0,10717,4,M,PA,2362,2413,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010717_000.png
+60284,00014884_005.png,['No Finding'],5,14884,55,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014884_005.png
+102084,00027190_000.png,['No Finding'],0,27190,31,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027190_000.png
+50419,00012772_004.png,['No Finding'],4,12772,25,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012772_004.png
+80029,00019655_000.png,['No Finding'],0,19655,48,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019655_000.png
+100151,00026538_037.png,['Effusion'],37,26538,22,F,AP,2912,2544,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026538_037.png
+74776,00018360_038.png,['No Finding'],38,18360,62,M,AP,3016,2528,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018360_038.png
+87484,00021610_031.png,"['Effusion', 'Infiltration']",31,21610,45,M,PA,3056,2488,0.139,0.139,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021610_031.png
+71077,00017524_034.png,"['Effusion', 'Infiltration']",34,17524,47,F,PA,2048,2500,0.168,0.168,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017524_034.png
+66578,00016471_000.png,['Infiltration'],0,16471,72,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016471_000.png
+101550,00026975_001.png,['Mass'],1,26975,26,F,PA,2266,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_011/images/00026975_001.png
+101334,00026923_005.png,"['Edema', 'Pneumothorax']",5,26923,59,M,PA,2992,2991,0.143,0.143,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026923_005.png
+27021,00007040_001.png,['No Finding'],1,7040,45,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007040_001.png
+18715,00004968_001.png,['Infiltration'],1,4968,69,M,PA,2992,2991,0.143,0.143,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004968_001.png
+12635,00003308_000.png,['No Finding'],0,3308,10,M,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003308_000.png
+27805,00007238_000.png,['No Finding'],0,7238,43,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007238_000.png
+37920,00009966_000.png,"['Atelectasis', 'Pneumonia']",0,9966,48,F,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,/kaggle/input/data/images_005/images/00009966_000.png
+12461,00003252_001.png,['No Finding'],1,3252,23,F,PA,2974,2821,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003252_001.png
+92100,00022993_007.png,['No Finding'],7,22993,55,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022993_007.png
+5723,00001547_005.png,['No Finding'],5,1547,65,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001547_005.png
+39943,00010436_002.png,"['Atelectasis', 'Infiltration']",2,10436,37,F,PA,2048,2500,0.168,0.168,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010436_002.png
+82608,00020318_022.png,['Pneumothorax'],22,20318,60,M,PA,2992,2991,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020318_022.png
+74030,00018198_005.png,['No Finding'],5,18198,27,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018198_005.png
+98328,00025969_002.png,"['Cardiomegaly', 'Effusion']",2,25969,57,F,PA,2590,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,0,1,0,0,0,/kaggle/input/data/images_011/images/00025969_002.png
+84102,00020673_024.png,"['Effusion', 'Infiltration']",24,20673,31,F,AP,3056,2544,0.139,0.139,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020673_024.png
+42911,00011055_001.png,['No Finding'],1,11055,27,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00011055_001.png
+45164,00011587_004.png,['No Finding'],4,11587,39,M,PA,2990,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011587_004.png
+58566,00014483_000.png,['No Finding'],0,14483,26,M,PA,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00014483_000.png
+79532,00019535_002.png,['No Finding'],2,19535,34,F,PA,2021,2020,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019535_002.png
+90260,00022437_000.png,['Emphysema'],0,22437,66,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00022437_000.png
+102603,00027355_014.png,['Effusion'],14,27355,15,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027355_014.png
+17141,00004597_000.png,['No Finding'],0,4597,48,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004597_000.png
+48861,00012376_010.png,"['Effusion', 'Infiltration', 'Nodule', 'Mass', 'Pneumothorax']",10,12376,55,M,PA,2992,2991,0.143,0.143,,0,0,1,1,0,0,0,1,0,0,0,1,1,0,/kaggle/input/data/images_006/images/00012376_010.png
+88172,00021817_005.png,"['Effusion', 'Nodule']",5,21817,38,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,/kaggle/input/data/images_010/images/00021817_005.png
+98954,00026167_008.png,['Effusion'],8,26167,18,F,PA,2020,2021,0.194311,0.194311,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026167_008.png
+30099,00007851_005.png,['No Finding'],5,7851,57,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007851_005.png
+96391,00025369_001.png,['No Finding'],1,25369,39,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025369_001.png
+109973,00029919_005.png,"['Atelectasis', 'Consolidation']",5,29919,20,M,AP,3056,2544,0.139,0.139,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00029919_005.png
+105643,00028425_003.png,['No Finding'],3,28425,38,M,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028425_003.png
+84078,00020673_000.png,"['Atelectasis', 'Infiltration']",0,20673,31,F,AP,3056,2544,0.139,0.139,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020673_000.png
+85358,00021035_042.png,['No Finding'],42,21035,34,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021035_042.png
+24169,00006346_001.png,['No Finding'],1,6346,10,M,PA,2226,1893,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006346_001.png
+19986,00005346_001.png,['No Finding'],1,5346,47,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005346_001.png
+61717,00015251_000.png,['Mass'],0,15251,50,M,PA,2910,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_007/images/00015251_000.png
+49655,00012609_004.png,"['Mass', 'Nodule']",4,12609,86,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_006/images/00012609_004.png
+14842,00003874_000.png,['No Finding'],0,3874,11,M,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003874_000.png
+74636,00018325_005.png,['Fibrosis'],5,18325,36,F,PA,2874,2341,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00018325_005.png
+38565,00010071_007.png,['Pneumothorax'],7,10071,35,F,PA,2992,2991,0.143,0.143,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010071_007.png
+86718,00021381_020.png,['Pleural_Thickening'],20,21381,65,F,PA,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_010/images/00021381_020.png
+51986,00013112_003.png,['No Finding'],3,13112,51,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013112_003.png
+88678,00021972_014.png,"['Atelectasis', 'Infiltration', 'Nodule']",14,21972,49,F,AP,3056,2544,0.139,0.139,,1,0,1,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_010/images/00021972_014.png
+26987,00007034_064.png,['Effusion'],64,7034,30,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007034_064.png
+39980,00010447_010.png,"['Consolidation', 'Infiltration', 'Mass', 'Pneumothorax']",10,10447,63,F,AP,2500,2048,0.168,0.168,,0,1,1,1,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_005/images/00010447_010.png
+96241,00025314_001.png,['No Finding'],1,25314,32,M,PA,2932,2886,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025314_001.png
+79423,00019508_008.png,['Edema'],8,19508,34,M,AP,3056,2544,0.139,0.139,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019508_008.png
+23783,00006273_001.png,"['Effusion', 'Mass']",1,6273,50,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,1,0,0,0,0,1,0,/kaggle/input/data/images_003/images/00006273_001.png
+8357,00002215_000.png,['No Finding'],0,2215,12,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002215_000.png
+51726,00013060_010.png,['No Finding'],10,13060,59,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013060_010.png
+107388,00028992_000.png,['No Finding'],0,28992,57,F,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00028992_000.png
+54681,00013678_000.png,"['Atelectasis', 'Effusion', 'Infiltration']",0,13678,64,M,PA,2992,2991,0.143,0.143,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013678_000.png
+44172,00011379_041.png,['Pneumothorax'],41,11379,10,M,AP,2048,2500,0.168,0.168,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00011379_041.png
+46583,00011898_000.png,['No Finding'],0,11898,51,F,PA,2362,2545,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00011898_000.png
+6428,00001732_000.png,['No Finding'],0,1732,44,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00001732_000.png
+100332,00026586_008.png,"['Emphysema', 'Pneumothorax']",8,26586,37,M,PA,2992,2991,0.143,0.143,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026586_008.png
+69275,00017100_000.png,['No Finding'],0,17100,34,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017100_000.png
+76694,00018845_001.png,"['Effusion', 'Mass']",1,18845,77,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,1,0,/kaggle/input/data/images_009/images/00018845_001.png
+47510,00012061_003.png,['No Finding'],3,12061,66,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012061_003.png
+21759,00005773_011.png,['No Finding'],11,5773,37,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005773_011.png
+54665,00013670_172.png,"['Atelectasis', 'Consolidation', 'Infiltration', 'Mass']",172,13670,56,M,AP,2500,2048,0.168,0.168,,1,1,1,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_006/images/00013670_172.png
+2151,00000566_003.png,['No Finding'],3,566,38,F,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000566_003.png
+12936,00003392_011.png,"['Atelectasis', 'Infiltration']",11,3392,62,M,AP,2500,2048,0.168,0.168,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003392_011.png
+3114,00000820_027.png,['No Finding'],27,820,49,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000820_027.png
+102377,00027271_000.png,['No Finding'],0,27271,42,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027271_000.png
+41424,00010711_000.png,['Atelectasis'],0,10711,34,M,AP,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010711_000.png
+26264,00006903_000.png,['No Finding'],0,6903,41,F,PA,2544,3056,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00006903_000.png
+93013,00023218_001.png,"['Consolidation', 'Effusion']",1,23218,54,M,AP,2544,3056,0.139,0.139,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023218_001.png
+71787,00017691_018.png,['No Finding'],18,17691,61,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017691_018.png
+54659,00013670_166.png,['No Finding'],166,13670,56,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013670_166.png
+101896,00027102_000.png,['No Finding'],0,27102,34,F,PA,2544,3056,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027102_000.png
+66756,00016505_000.png,['No Finding'],0,16505,10,M,PA,2400,2233,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00016505_000.png
+17294,00004643_006.png,['No Finding'],6,4643,54,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004643_006.png
+18958,00005049_000.png,['No Finding'],0,5049,48,M,PA,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005049_000.png
+54509,00013670_016.png,"['Edema', 'Effusion', 'Infiltration']",16,13670,55,M,PA,2992,2991,0.143,0.143,,0,0,1,0,1,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013670_016.png
+92681,00023131_002.png,['No Finding'],2,23131,47,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023131_002.png
+95475,00025096_001.png,['No Finding'],1,25096,31,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025096_001.png
+31302,00008168_001.png,['Pneumothorax'],1,8168,76,F,PA,2048,2500,0.168,0.168,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00008168_001.png
+44841,00011534_000.png,['No Finding'],0,11534,49,F,PA,2810,2737,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00011534_000.png
+40627,00010548_005.png,['No Finding'],5,10548,61,F,PA,2602,2373,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010548_005.png
+71811,00017698_006.png,['No Finding'],6,17698,74,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017698_006.png
+50201,00012697_004.png,['No Finding'],4,12697,70,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00012697_004.png
+22555,00005977_005.png,['No Finding'],5,5977,70,M,AP,2500,2048,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005977_005.png
+39280,00010297_004.png,['No Finding'],4,10297,53,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010297_004.png
+41806,00010780_013.png,['Nodule'],13,10780,35,M,PA,2870,2937,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_005/images/00010780_013.png
+61142,00015078_001.png,"['Effusion', 'Pleural_Thickening']",1,15078,53,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,1,0,1,0,0,0,0,/kaggle/input/data/images_007/images/00015078_001.png
+21586,00005746_003.png,['Infiltration'],3,5746,47,F,AP,2500,2048,0.171,0.171,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00005746_003.png
+27502,00007157_015.png,['Infiltration'],15,7157,36,F,AP,2048,2500,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007157_015.png
+981,00000245_002.png,['Infiltration'],2,245,32,M,AP,2048,2500,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000245_002.png
+85681,00021129_000.png,['No Finding'],0,21129,55,M,PA,2021,2021,0.194311,0.194311,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00021129_000.png
+22934,00006051_009.png,['No Finding'],9,6051,55,M,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00006051_009.png
+40917,00010601_000.png,['No Finding'],0,10601,59,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010601_000.png
+17662,00004759_000.png,['Atelectasis'],0,4759,45,M,PA,2500,2048,0.171,0.171,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004759_000.png
+93595,00023499_000.png,['No Finding'],0,23499,30,F,PA,2048,2500,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_010/images/00023499_000.png
+72116,00017751_006.png,['No Finding'],6,17751,54,M,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_008/images/00017751_006.png
+111082,00030323_009.png,['Infiltration'],9,30323,31,F,AP,2544,3056,0.139,0.139,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_012/images/00030323_009.png
+34572,00009107_004.png,"['Edema', 'Infiltration']",4,9107,46,M,AP,2500,2048,0.168,0.168,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00009107_004.png
+97623,00025769_000.png,"['Atelectasis', 'Nodule']",0,25769,59,M,PA,2992,2991,0.143,0.143,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_011/images/00025769_000.png
+81631,00020070_007.png,['Nodule'],7,20070,60,F,PA,2542,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_009/images/00020070_007.png
+34265,00008994_000.png,['Hernia'],0,8994,62,F,PA,2992,2989,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,/kaggle/input/data/images_004/images/00008994_000.png
+64810,00016009_010.png,['No Finding'],10,16009,55,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00016009_010.png
+38304,00010012_026.png,['Infiltration'],26,10012,53,M,AP,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_005/images/00010012_026.png
+18444,00004898_006.png,"['Effusion', 'Infiltration']",6,4898,51,M,AP,2500,2048,0.171,0.171,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,/kaggle/input/data/images_003/images/00004898_006.png
+78175,00019176_085.png,['No Finding'],85,19176,66,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00019176_085.png
+83806,00020595_002.png,['No Finding'],2,20595,62,M,PA,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020595_002.png
+73253,00018034_000.png,['Pleural_Thickening'],0,18034,49,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,/kaggle/input/data/images_008/images/00018034_000.png
+64816,00016009_016.png,['Infiltration'],16,16009,55,F,PA,2048,2500,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_007/images/00016009_016.png
+54560,00013670_067.png,['Atelectasis'],67,13670,56,M,AP,2500,2048,0.168,0.168,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_006/images/00013670_067.png
+54559,00013670_066.png,"['Consolidation', 'Mass']",66,13670,56,M,AP,2500,2048,0.168,0.168,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_006/images/00013670_066.png
+51859,00013106_000.png,"['Infiltration', 'Mass']",0,13106,61,M,PA,2500,2048,0.168,0.168,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_006/images/00013106_000.png
+58226,00014398_015.png,"['Effusion', 'Mass']",15,14398,56,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,0,0,0,1,0,/kaggle/input/data/images_007/images/00014398_015.png
+11126,00002883_004.png,['No Finding'],4,2883,56,M,PA,2746,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002883_004.png
+105415,00028330_000.png,['Nodule'],0,28330,33,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,/kaggle/input/data/images_012/images/00028330_000.png
+1661,00000452_000.png,['No Finding'],0,452,42,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_001/images/00000452_000.png
+34575,00009107_007.png,"['Atelectasis', 'Infiltration', 'Mass']",7,9107,46,M,AP,2500,2048,0.168,0.168,,1,0,1,0,0,0,0,0,0,0,0,0,1,0,/kaggle/input/data/images_004/images/00009107_007.png
+96025,00025253_002.png,['No Finding'],2,25253,54,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00025253_002.png
+11375,00002999_000.png,['No Finding'],0,2999,51,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002999_000.png
+14518,00003771_000.png,['No Finding'],0,3771,29,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00003771_000.png
+101836,00027079_003.png,['No Finding'],3,27079,52,M,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027079_003.png
+101683,00027024_003.png,['No Finding'],3,27024,64,F,AP,3056,2544,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00027024_003.png
+27265,00007100_000.png,['No Finding'],0,7100,39,M,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_004/images/00007100_000.png
+83395,00020476_002.png,['No Finding'],2,20476,25,F,PA,2544,3024,0.139,0.139,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_009/images/00020476_002.png
+32537,00008510_000.png,"['Effusion', 'Mass', 'Pleural_Thickening']",0,8510,55,F,PA,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,1,0,1,0,0,1,0,/kaggle/input/data/images_004/images/00008510_000.png
+51022,00012892_009.png,"['Mass', 'Nodule']",9,12892,42,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,/kaggle/input/data/images_006/images/00012892_009.png
+100023,00026500_000.png,['No Finding'],0,26500,55,M,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_011/images/00026500_000.png
+53043,00013380_008.png,['Hernia'],8,13380,48,F,AP,2500,2048,0.168,0.168,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,/kaggle/input/data/images_006/images/00013380_008.png
+67535,00016691_002.png,"['Fibrosis', 'Nodule']",2,16691,40,F,PA,2992,2991,0.143,0.143,,0,0,0,0,0,0,1,0,0,0,0,1,0,0,/kaggle/input/data/images_008/images/00016691_002.png
+7681,00002013_000.png,['No Finding'],0,2013,55,F,PA,2048,2500,0.171,0.171,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/kaggle/input/data/images_002/images/00002013_000.png

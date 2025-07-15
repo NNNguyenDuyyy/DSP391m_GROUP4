@@ -14,10 +14,10 @@ from utils.data_utils import load_labels, get_ground_truth
 # --- CONFIG ---
 DISEASE_LABELS = ['Atelectasis', 'Consolidation', 'Infiltration', 'Pneumothorax', 'Edema', 'Emphysema', 'Fibrosis', 'Effusion', 'Pneumonia', 'Pleural_Thickening',
                   'Cardiomegaly', 'Nodule', 'Mass', 'Hernia']
-MODEL_WEIGHTS = os.path.join('best_weights', 'best_weights', 'best_model_vgg_lka_3_block_8768.pth')
+MODEL_WEIGHTS = os.path.join('best_weights', 'best_weights', 'best_model_vgg_lka_3_block_8818.pth')
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-IMAGES_DIR = os.path.join('data', 'images_001', 'images')
-LABELS_CSV = os.path.join('data', 'test_df.csv')
+IMAGES_DIR = os.path.join('demo_imgs', 'random_images')
+LABELS_CSV = os.path.join('demo_imgs', 'random_img.csv')
 
 # --- LOAD CSV DATA ---
 import pandas as pd
@@ -56,6 +56,7 @@ model.eval()
 model.to(DEVICE)
 
 def predict(image_file):
+    threshold = 0.4  # Thêm ngưỡng xác suất
     # 1. Load image
     if isinstance(image_file, str):
         img_path = os.path.join(IMAGES_DIR, image_file)
@@ -76,18 +77,13 @@ def predict(image_file):
         for i, (disease, prob) in enumerate(zip(DISEASE_LABELS, probs)):
             print(f"{i+1:2d}. {disease:<20} {prob:.4f}")
         
-        # Logic mới: Chọn class có xác suất cao nhất
-        max_prob = np.max(probs)
-        max_class_idx = np.argmax(probs)
-        max_class = DISEASE_LABELS[max_class_idx]
-        
-        # Chỉ trả "No Finding" khi tất cả xác suất = 0
-        if max_prob == 0:
-            pred_labels_str = 'No Finding'
+        # Chọn tất cả class có xác suất > threshold
+        pred_indices = [i for i, prob in enumerate(probs) if prob > threshold]
+        if pred_indices:
+            pred_labels = [DISEASE_LABELS[i] for i in pred_indices]
+            pred_labels_str = ', '.join(pred_labels)
         else:
-            pred_labels_str = max_class
-        
-        print(f"Max probability: {max_prob:.4f} for {max_class}")
+            pred_labels_str = 'No Finding'
         print(f"Predicted: {pred_labels_str}")
 
     # 3. Ground truth - Get from CSV with disease columns
@@ -98,10 +94,16 @@ def predict(image_file):
     gt_labels = gt_diseases if gt_diseases else ['No Finding']
     gt_labels_str = ', '.join(gt_labels)
 
-    # 4. GradCAM for the most confident predicted label
-    class_idx = max_class_idx  # Sử dụng class có xác suất cao nhất
-    cam = compute_gradcam(model, img_tensor, class_idx, DEVICE)
-    gradcam_img = overlay_gradcam_on_image(img_pil, cam)
+    # 4. GradCAM cho class có xác suất cao nhất (chỉ vẽ nếu có dự đoán)
+    if pred_labels_str != 'No Finding':
+        if len(probs) > 0:
+            class_idx = int(np.argmax(probs))
+        else:
+            class_idx = 0
+        cam = compute_gradcam(model, img_tensor, class_idx, DEVICE)
+        gradcam_img = overlay_gradcam_on_image(img_pil, cam)
+    else:
+        gradcam_img = None
 
     return img_pil, pred_labels_str, gt_labels_str, gradcam_img
 
