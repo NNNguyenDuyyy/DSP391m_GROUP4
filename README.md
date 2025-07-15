@@ -8,7 +8,7 @@ This repository contains all relevant components for the project titled **Block-
 
 ├── DSP391m_Group4_Capstone_Project_Document.pdf / # Capstone Project Document
 
-├── DSP391m_GROUP4.pdf / # Capstone Project Slide
+├── DSP391m_GROUP_4.pdf / # Capstone Project Slide
 
 ├── SourceCode/ # All source code (models, training scripts, etc.)
 
