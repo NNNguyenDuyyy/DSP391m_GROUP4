@@ -37,7 +37,7 @@ This project is part of the **DSP391m** course/project, focusing on deep learnin
 
 ## 🖥️ Demo App
 
-- The `Demo/` folder contains an interactive app for visualizing model predictions and Grad-CAM heatmaps on chest X-ray images.
+- The `Demo_App/` folder contains an interactive app for visualizing model predictions and Grad-CAM heatmaps on chest X-ray images.
 
 ## 📊 Dataset
 
